@@ -16,8 +16,7 @@ export default function Home() {
          https://discord.me/silvercity
         </p>
       </main>
-
-      <Footer />
+    
     </div>
   )
 }
